@@ -1,5 +1,7 @@
 # community-faker
-generate massive amounts of fake data in the browser and node.js
+Generate massive amounts of fake data in the browser and node.js
+
+![Faker.js](https://raw.githubusercontent.com/MilosPaunovic/community-faker/main/logo.png)
 
 ## FAQ - What happened to the original faker.js?
 
