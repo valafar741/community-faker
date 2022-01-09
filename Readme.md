@@ -25,7 +25,7 @@ In the interest of the community, it has been decided that faker.js will continu
 ### Node.js
 
 ```js
-    var faker = require('faker');
+    var faker = require('community-faker');
 
     var randomName = faker.name.findName(); // Rowan Nikolaus
     var randomEmail = faker.internet.email(); // Kassandra.Haley@erich.biz
